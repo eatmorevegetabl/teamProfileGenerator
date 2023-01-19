@@ -11,3 +11,5 @@ The app also has tests, those are initiated by typing "npm test" in the terminal
 <img src="dist/images/Screenshot_2.png">
 
 ## Video Link
+
+https://drive.google.com/file/d/1zarcLlI6BwYCc21QwvbQIObNBdHGS3g4/view
