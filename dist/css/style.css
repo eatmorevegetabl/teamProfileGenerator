@@ -1,5 +1,5 @@
-header {
-  color: white;
+.header {
+  color: rgb(161, 155, 155);
   background-color: rgba(13, 237, 20, 0.929);
   justify-content: center;
   margin: 10px;
@@ -7,7 +7,7 @@ header {
   display: flex;
 }
 
-main {
+.main {
   display: flex;
   flex-wrap: wrap;
   margin: 10px;
